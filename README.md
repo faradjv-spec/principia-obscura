@@ -1,64 +1,66 @@
-# Principia Obscura
+# 🌑 Principia Obscura
 
-*The Hidden Foundations — thinking skills that reveal what's invisible by stripping away what isn't.*
+> The Hidden Foundations — thinking skills that reveal what's invisible by stripping away what isn't.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20this%20project-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/faradjv)
+[![GitHub Stars](https://img.shields.io/github/stars/faradjv-spec/principia-obscura?style=for-the-badge)](https://github.com/faradjv-spec/principia-obscura)
+
+---
+
+## The Name
 
 Named after Newton's *Principia Mathematica* and the Latin *obscura* (hidden/dark) — as in *camera obscura*, the dark chamber that reveals the image by blocking everything except what matters.
 
 These skills don't add knowledge. They subtract noise, assumptions, and dead frameworks until clarity remains.
 
-## Skills
+---
 
-### 🍎 Newtonian Inquiry Protocol
-**`newtonian-inquiry/`**
+## Why These 3
 
-A 4-stage first-principles problem-solving engine. Strips assumptions, pulls insights from unrelated disciplines, and synthesizes breakthrough answers.
+Most thinking frameworks tell you to add more: more context, more perspectives, more data. This pack does the opposite.
 
-**Stages:** Identify the Apple → Invisible Mechanics → Cross-Disciplinary Orbit → Synthesis
+Each skill targets a different layer of cognitive noise:
 
-**Use when:** You want a sharper, non-obvious answer to any problem.
+| Skill | What it strips | Level |
+|-------|---------------|-------|
+| 🍎 **Newtonian Inquiry** | Bad answers | Problem-solving |
+| 🔬 **Epistemological Inquiry** | Bad questions | Framework-level |
+| 🧠 **DEMENTIA** | Cognitive clutter | Meta-cognitive |
+
+Use **Epistemological** first to find the right question. Then **Newtonian** to find the best answer. **DEMENTIA** runs in the background keeping context sharp.
 
 ---
 
-### 🔬 Epistemological Inquiry
-**`epistemological-inquiry/`**
+## The Skills
+
+### 🍎 `newtonian-inquiry/` — First-Principles Problem Solver
+
+A 4-stage engine. Strips assumptions, pulls insights from unrelated disciplines, and synthesizes breakthrough answers.
+
+**Stages:** Identify the Apple → Invisible Mechanics → Cross-Disciplinary Orbit → Synthesis
+
+> **Use when:** You want a sharper, non-obvious answer to any problem.
+
+---
+
+### 🔬 `epistemological-inquiry/` — Framework Breaker
 
 Questions the frameworks themselves — not the answers within them. Exposes hidden assumptions about *what can be known and how*, then asks what changes if those assumptions are wrong.
 
 **Core Questions:** What framework am I using? → What would a different framework reveal? → What if both frameworks are wrong?
 
-**Use when:** The obvious solutions keep failing and you suspect the problem definition itself is broken.
+> **Use when:** The obvious solutions keep failing and you suspect the problem definition itself is broken.
 
 ---
 
-### 🧠 DEMENTIA — Dynamic Episodic Memory Triage Ensia
-**`dementia/`**
+### 🧠 `dementia/` — Intelligent Forgetting Engine
 
 Intelligent selective forgetting for context window management. Mimics how the human brain prunes redundant noise to keep important long-range connections fast.
 
 **Mechanics:** Signal Decay · Pattern Consolidation · Interference Suppression
 
-**Use when:** Long conversations are losing focus, context is cluttered, or Claude's responses are getting less precise.
+> **Use when:** Long conversations are losing focus, context is cluttered, or Claude's responses are getting less precise.
 
 ---
 
-## How They Stack
-
-| Skill | What it does | Level |
-|-------|-------------|-------|
-| **Newtonian Inquiry** | Finds better *answers* | Problem-solving |
-| **Epistemological Inquiry** | Finds better *questions* | Framework-level |
-| **DEMENTIA** | Keeps the thinking space clean | Meta-cognitive |
-
-Use **Epistemological** first to find the right question. Then **Newtonian** to find the best answer. **DEMENTIA** runs in the background keeping context sharp.
-
-## Installation
-
-Upload each skill's `SKILL.md` file to your Claude custom skills (via Claude.ai settings or as a project file).
-
-## Author
-
-[Faraj Valizada](https://github.com/farajvalizada)
-
-## License
-
-MIT
+## The Full Loop
